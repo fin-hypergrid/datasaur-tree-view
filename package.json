@@ -1,0 +1,22 @@
+{
+  "name": "datasaur-tree-view",
+  "version": "3.0.0",
+  "description": "Hypergrid hierarchical data data source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fin-hypergrid/datasaur-tree-view.git"
+  },
+  "author": "Jonathan Eiten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fin-hypergrid/datasaur-tree-view/issues"
+  },
+  "homepage": "https://github.com/fin-hypergrid/datasaur-tree-view#readme",
+  "dependencies": {
+    "datasaur-indexed": "github:fin-hypergrid/datasaur-indexed#3.0.0"
+  }
+}
